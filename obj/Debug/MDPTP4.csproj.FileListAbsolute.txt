@@ -1,0 +1,6 @@
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPTP4\MDPTP4\obj\Debug\MDPTP4.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPTP4\MDPTP4\bin\Debug\MDPTP4.exe.config
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPTP4\MDPTP4\bin\Debug\MDPTP4.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPTP4\MDPTP4\bin\Debug\MDPTP4.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPTP4\MDPTP4\obj\Debug\MDPTP4.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPTP4\MDPTP4\obj\Debug\MDPTP4.pdb
